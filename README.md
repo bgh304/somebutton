@@ -19,7 +19,7 @@ Supports following platforms:
 
 ### Installing
 
-Create a folder named 'somebutton' in Wordpress' 'plugins' folder, and download the into somebutton folder.
+Clone the files into Wordpress' 'plugins' folder.
 
 ### Executing program
 
