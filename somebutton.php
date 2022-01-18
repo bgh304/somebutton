@@ -54,5 +54,3 @@ function somebutton_function($attr)
 }
 
 add_shortcode('somebutton', 'somebutton_function');
-
-?>
