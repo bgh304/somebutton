@@ -23,6 +23,8 @@ Clone the files into Wordpress' 'plugins' folder.
 
 ### Executing program
 
+Write your social media URL in the shortcode. Platform must be supported by this plugin.
+
 Write the shortcode in following form:
 ```
 [somebutton url="https://www.example.com"]
