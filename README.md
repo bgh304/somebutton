@@ -1,10 +1,19 @@
 # SoMe Button
 
-Wordpress plugin for social media button links. Uses WP's shortcode to make link button with some-service logo image.
+Wordpress plugin for social media button links.
 
 ## Description
 
-Wordpress plugin for social media button links. Uses WP's shortcode to make link button with some-service logo image.
+Wordpress plugin for social media button links. Uses WP's shortcode to make link button with platform logo image.
+
+Supports following platforms:
+* Facebook
+* Instagram
+* LinkedIn
+* TikTok
+* Twitter
+* Youtube
+
 
 ## Getting Started
 
@@ -14,11 +23,11 @@ Create a folder named 'somebutton' in Wordpress' 'plugins' folder, and download 
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+Write the shortcode in following form:
 ```
-code blocks for commands
+[somebutton url="https://www.example.com"]
 ```
+
 ## Authors
 
 Antti Salonen
